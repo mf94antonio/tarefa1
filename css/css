@@ -1,0 +1,29 @@
+*{
+    margin: 10;
+    padding: 0;
+}
+.cabecario {
+    background-color: black;
+    color: white;
+    padding: 0;
+}
+.textbaner {
+    color:red; 
+}
+.nav1 {
+  text-align: right;
+  margin: 20px;
+  display: inline;
+}
+.banner {
+    text-align: center;
+}
+.mundo {
+    display: flex;
+}
+.fim{
+    text-align: center;
+}
+.footer{
+    display: flex;
+}
